@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "source": "tova-explore",
-  "generatedAt": "2026-11-14T00:00:42.779Z",
+  "generatedAt": "2026-11-14T00:07:24.535Z",
   "slug": "mrpipes",
-  "name": "mrpipes",
+  "name": "Mr Pipes Plumbing and Gas Ltd",
   "city": "Auckland",
   "industry": {
     "label": "Plumbers",
@@ -42,6 +42,6 @@
     "generator": "claude",
     "accent": "#116dff",
     "screenshot": "screenshots/after-desktop.jpg",
-    "publishedAt": "2026-11-14T00:00:42.784Z"
+    "publishedAt": "2026-11-14T00:07:24.537Z"
   }
 }
