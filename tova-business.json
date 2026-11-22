@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-22T10:28:48.411Z",
+  "slug": "mrpipes",
+  "name": "Mr Pipes Plumbing and Gas Ltd",
+  "city": "Auckland",
+  "industry": {
+    "label": "Plumbers",
+    "niche": "plumber",
+    "group": "Trades & construction"
+  },
+  "contact": {
+    "phone": "0276774737",
+    "address": "96A Munro Road, Minden, 3179"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/craig-young-a32b7649",
+    "facebook": "http://www.facebook.com/MrPipesPlumbingGas",
+    "instagram": "https://www.instagram.com/mrpipesplumbingandgas"
+  },
+  "about": {
+    "overview": "Mr Pipes Plumbing and Gas Ltd is Tauranga's finest Plumber and Gasfitter. Renovations, Maintenance and New Builds. Call now 027 677 47 37 or visit our website at www.mrpipes.co.nz",
+    "tagline": "Tauranga plumber | Mr Pipes Plumbing & Gas Ltd | New Zealand",
+    "services": [
+      "Privacy Policy"
+    ]
+  },
+  "before": {
+    "url": "https://www.mrpipes.co.nz/",
+    "domain": "mrpipes.co.nz",
+    "finalUrl": "https://www.mrpipes.co.nz/",
+    "title": "Tauranga plumber | Mr Pipes Plumbing & Gas Ltd | New Zealand",
+    "pages": 13,
+    "score": 0,
+    "assessedAt": "2026-11-10T09:30:08.362Z",
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/mr-pipes-plumbing-and-gas/",
+    "repoUrl": "https://github.com/tova-studio/mr-pipes-plumbing-and-gas",
+    "generator": "claude",
+    "accent": "#116dff",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-22T10:28:48.412Z"
+  }
+}
